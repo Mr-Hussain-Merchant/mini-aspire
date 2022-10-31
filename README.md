@@ -65,5 +65,11 @@ Loan Amount would be paid all together or it could be paid weekly based on term 
   Password: 123456
 ```
 
+**6. Below are the customer Credentials for testing Purpose**
+```bash
+  Username: hussain@gmail.com
+  Password: 123456
+```
 
-**6. For Futher Usage of the App Go through the link below: https://docs.google.com/document/d/1XBK2_XLj99m1813HB3IB1PJup9i_WdEVViBRa4VY-oY/edit?usp=sharing**
+
+**7. For Futher Usage of the App Go through the link below: https://docs.google.com/document/d/1XBK2_XLj99m1813HB3IB1PJup9i_WdEVViBRa4VY-oY/edit?usp=sharing**
